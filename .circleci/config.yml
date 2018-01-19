@@ -5,4 +5,4 @@ jobs:
        - image: circleci/golang:latest
      steps:
        - checkout
-       - run: echo "hello world 3"
+       - run: echo "hello world 4"
